@@ -1,0 +1,7 @@
+{
+    "env": {
+        "DB_USERNAME": "akansh",
+        "DB_PASSWORD": "aJzv7fC29wrhTwvf",
+        "JWT_KEY": "private_key_auth"
+    }
+}
